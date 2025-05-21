@@ -1,7 +1,5 @@
 # ⏱️ Detecção de Anomalias e Previsão com Séries Temporais
 
-Projeto desenvolvido durante o curso **"Séries temporais: detectando anomalias e realizando previsões"** da [Alura](https://www.alura.com.br/).
-
 Este projeto foca na análise e modelagem de dados temporais com foco em **identificação de anomalias** e **previsão de demanda**, utilizando como base o volume de clientes atendidos em uma rede de restaurantes ao longo do tempo.
 
 ---
