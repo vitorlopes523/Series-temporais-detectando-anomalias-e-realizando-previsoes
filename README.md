@@ -1,16 +1,51 @@
-### 📈 Análise de Séries Temporais: Anomalias e Previsão de Demanda
+# ⏱️ Detecção de Anomalias e Previsão com Séries Temporais
 
-Projeto desenvolvido como parte do curso de **Séries Temporais: detectando anomalias e realizando previsões** da Alura. O objetivo foi aplicar técnicas de **Machine Learning** e **análise temporal** para entender o comportamento de clientes em uma rede de restaurantes ao longo do tempo.
+Projeto desenvolvido durante o curso **"Séries temporais: detectando anomalias e realizando previsões"** da [Alura](https://www.alura.com.br/).
 
-📌 **Durante o projeto, trabalhei com:**
+Este projeto foca na análise e modelagem de dados temporais com foco em **identificação de anomalias** e **previsão de demanda**, utilizando como base o volume de clientes atendidos em uma rede de restaurantes ao longo do tempo.
 
-- 📊 Visualização e análise exploratória de séries temporais
-- 📉 Suavização dos dados com **média móvel**
-- ⚠️ Detecção de **anomalias** em períodos críticos
-- 🔍 **Decomposição da série** em tendência, sazonalidade e resíduos
-- 🤖 Construção de modelos para **previsão de demanda futura**
-- 👥 Análise orientada para **otimização da alocação de atendentes**
+---
 
-> Projeto realizado inteiramente no Google Colab.
+## 📊 Objetivos do Projeto
 
-🔗 **Acesse o projeto completo aqui:** [Clique para abrir no Google Colab](https://colab.research.google.com/drive/1g0omi6_h8-pysm5mftGgLEVUoaBAxdcc)
+- Analisar distribuições de dados a partir de gráficos
+- Suavizar séries temporais utilizando **média móvel**
+- Detectar **anomalias** em dados temporais
+- Realizar a **decomposição da série** em tendência, sazonalidade e resíduos
+- Construir modelos de previsão para dados futuros
+
+---
+
+## 🧠 Técnicas Utilizadas
+
+- Análise exploratória e visualização de dados temporais
+- Média móvel para suavização de ruídos
+- Detecção de **pontos de anomalia**
+- Decomposição de séries temporais
+- Modelagem preditiva para **alocação eficiente de atendentes**
+- Avaliação e interpretação dos resultados
+
+---
+
+## 📌 Resultado
+
+O projeto permitiu extrair insights importantes sobre o comportamento dos clientes ao longo do tempo, identificar períodos críticos de alta/baixa demanda, prever o fluxo futuro de atendimento e otimizar a alocação de pessoal com base nos padrões identificados.
+
+---
+
+## 💻 Acesse o Projeto
+
+📍 O notebook completo está disponível no Google Colab:
+
+🔗 [Clique aqui para visualizar o projeto](https://colab.research.google.com/drive/1g0omi6_h8-pysm5mftGgLEVUoaBAxdcc)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Python
+- Pandas & Matplotlib
+- Statsmodels
+- Google Colab
+
+
